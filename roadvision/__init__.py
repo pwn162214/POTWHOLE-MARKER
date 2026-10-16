@@ -1,0 +1,1 @@
+"""RoadVision AI pothole reporting application."""
